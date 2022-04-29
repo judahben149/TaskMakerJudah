@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TaskMakerJudah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="what_do_you_need_to_do">What do you need to do?</string>
+    <string name="priority_task">Priority Task</string>
+    <string name="due_date">Due Date</string>
+    <string name="create_new_task_floating_action_button">Create new task floating action button</string>
+    <string name="save">Save</string>
+    <string name="due_date_notification">Due date: &#160; %1$s</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="key_app_theme" translatable="false">theme</string>
+    <string name="light" translatable="false">light</string>
+    <string name="dark" translatable="false">dark</string>
+    <string name="auto" translatable="false">auto</string>
+
+    <!-- Messages Preferences -->
+    <string name="theme_title">Theme</string>
+    <string name="app_theme_title">App theme</string>
+    <string name="light_message" translatable="false">Light</string>
+    <string name="dark_message" translatable="false">Dark</string>
+    <string name="auto_message" translatable="false">Auto</string>
+</resources>

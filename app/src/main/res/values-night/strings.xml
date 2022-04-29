@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="what_do_you_need_to_do">What do you need to do?</string>
+    <string name="priority_task">Priority Task</string>
+    <string name="due_date">Due Date</string>
+    <string name="create_new_task_floating_action_button">Create new task floating action button</string>
+    <string name="save">Save</string>
+</resources>
